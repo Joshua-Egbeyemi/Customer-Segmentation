@@ -24,7 +24,7 @@ Each metric was scored 1–4 using quartile binning, then combined into an RFM s
 
 ## Key Insights
 
-![Customer Segmentation Breakdown](images/rfm_segment_breakdown.png)
+![Customer Segmentation Breakdown](rfm_segment_breakdown.png)
 
 **1. A small group of Champions drives almost half of all revenue**
 Just 72 customers (14% of the customer base) are classified as Champions — yet they generate **47.3% of total revenue** ($164,597). This is a classic Pareto pattern: a small segment carries a disproportionate share of business value, and should be the top priority for retention (loyalty perks, early access, personal outreach).
